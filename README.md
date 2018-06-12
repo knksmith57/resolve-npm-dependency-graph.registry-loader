@@ -4,7 +4,7 @@
 
 ## Usage
 
-```
+```js
 const Resolver = require('resolve-npm-dependency-graph')
 const RegistryLoader = require('resolve-npm-dependency-graph.registry-loader')
 
